@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @13MariaNoguera
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# *MNB* 
+***
 
-<!---
-13MariaNoguera/13MariaNoguera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📖 Estudios
+- [x] Bachillerato Científico
+- [x] Título Superior de Música
+- [ ] CFGS Desarrollo de Aplicaciones Multiplataforma
+
+### 🌍 Idiomas
+- Castellano
+- Valenciano
+- Inglés
+
+### 🔧 Lenguajes en Proceso
+```
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML
+```
