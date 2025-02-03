@@ -14,10 +14,9 @@
 
 ### 🔧 Lenguajes en Proceso
 ```
+- JavaScript
+- PHP
 - Java
 - Python
-- JavaScript
-- SQL
-- HTML
 ```
 
